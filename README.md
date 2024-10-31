@@ -3,7 +3,7 @@ I'm a third year Computer Engineering student at Simon Fraser University.
 
 Primarily interested in embedded systems and learning more about computer hardware / low level programming. 
 
-My experiences include developing a High Voltage Safety Light PCB for Team Phantom Formula SAE, writing some C++ code for SFU Robot Soccer, and a Software Automation Test-Coop at Delta-Q where I helped develop internal testing tools in Python/NI Labview/NI TestStand. 
+My experiences include developing a High Voltage Safety Light PCB for Team Phantom Formula SAE, writing some C++ code for SFU Robot Soccer, and a Software Automation Test Co-op at Delta-Q where I developed internal testing tools in Python/NI Labview/NI TestStand. 
 
 <!--
 **surrealcloud/surrealcloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
