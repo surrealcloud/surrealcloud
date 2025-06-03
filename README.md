@@ -1,7 +1,7 @@
 ### about
 I'm a third year Computer Engineering student at Simon Fraser University. 
 
-Broadly interested in embedded systems and applications of reinforcement learning in control systems. 
+Broadly interested in embedded systems and computer architecture. 
 
 My experiences include developing a High Voltage Safety Light PCB for Team Phantom Formula SAE, writing some C++ code for SFU Robot Soccer, and a Software Automation Test Co-op at Delta-Q where I developed internal testing tools in Python/NI Labview/NI TestStand. 
 
