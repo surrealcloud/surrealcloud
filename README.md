@@ -1,10 +1,9 @@
 ### about
-I'm a third year Computer Engineering student at Simon Fraser University. 
+incoming embedded swe @ rivian 
 
-Broadly interested in embedded systems and computer architecture. 
+fourth year computer engineering @ Simon Fraser University. broadly interested in embedded systems and computer architecture (or honestly anything that interfaces code with the real world). 
 
-My experiences include developing a High Voltage Safety Light PCB for Team Phantom Formula SAE, writing some C++ code for SFU Robot Soccer, and a Software Automation Test Co-op at Delta-Q where I developed internal testing tools in Python/NI Labview/NI TestStand. 
-
+have experience with HV/LV PCB design in Altium (for Team Phantom Formula SAE), C/C++ for PID control and SPI/CAN on microcontrollers (SFU Robot Soccer), and software test automation on hardware-in-loop systems using Python/NI Labview/NI Teststand (Delta-Q Technologies). 
 <!--
 **surrealcloud/surrealcloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
