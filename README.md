@@ -1,5 +1,5 @@
 ### about
-currently embedded swe intern @ rivian, on platform embedded software team shipping code on R2/R1/VW :)
+currently embedded swe intern @ rivian-volkswagen tech, on platform embedded software team shipping code that powers R2/R1/VW :)
 
 fourth year computer engineering @ Simon Fraser University. broadly interested in embedded systems and computer architecture (or honestly anything that interfaces code with the real world). 
 
