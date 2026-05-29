@@ -1,9 +1,12 @@
 ### about
-incoming embedded swe @ rivian 
+currently embedded swe intern @ rivian, on platform embedded software team shipping code on R2/R1/VW :)
 
 fourth year computer engineering @ Simon Fraser University. broadly interested in embedded systems and computer architecture (or honestly anything that interfaces code with the real world). 
 
-have experience with HV/LV PCB design in Altium (for Team Phantom Formula SAE), C/C++ for PID control and SPI/CAN on microcontrollers (SFU Robot Soccer), and software test automation on hardware-in-loop systems using Python/NI Labview/NI Teststand (Delta-Q Technologies). 
+have experience with
+- HV/LV PCB design in Altium (Team Phantom Formula SAE)
+- C++ and MatLab for software PID control, embedded C for STM32 ARM microcontrollers (SFU Robot Soccer)
+- software test automation on hardware-in-loop (HIL) systems using Python/NI Labview/NI TestStand (Delta-Q Technologies)
 <!--
 **surrealcloud/surrealcloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
