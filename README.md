@@ -1,8 +1,8 @@
 ### about
 
-incoming embedded swe intern @ tesla
+embedded swe intern @ tesla steer-by-wire
 
-fifth year computer engineering @ Simon Fraser University. broadly interested in embedded systems and computer architecture (or honestly anything that interfaces code with the real world). specifically interested in putting computers in things that move fast. 
+computer engineering @ Simon Fraser University. broadly interested in interfacing code with the real world. specifically interested in putting computers in things that move fast. 
 
 have experience with
 - C/C++ for RTOS embedded platforms (Rivian-VW Tech)
